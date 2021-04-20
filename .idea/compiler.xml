@@ -10,15 +10,10 @@
         <module name="cloud-provider-payment-8001" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="alibaba-nacos-discovery-server" target="11" />
-      <module name="nacos-consumer" target="11" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cloud-provider-payment-8001" options="-parameters" />
-      <module name="nacos-consumer" options="" />
     </option>
   </component>
 </project>

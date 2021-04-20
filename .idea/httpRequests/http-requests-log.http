@@ -1,0 +1,65 @@
+POST http://localhost:8001/api/payment/create
+Content-Type: application/json
+
+{
+  "serial": "okko"
+}
+
+<> 2021-04-20T172531.200.json
+
+###
+
+POST http://localhost:8001/api/payment/create
+Content-Type: application/json
+
+{
+  "id": 1,
+  "serial": "okko"
+}
+
+<> 2021-04-20T171948.500.json
+
+###
+
+POST http://localhost:8001/api/payment/create
+Content-Type: application/json
+
+{
+  "serial": "okko"
+}
+
+<> 2021-04-20T171840.500.json
+
+###
+
+POST http://localhost:8001/api/payment/create
+Content-Type: application/json
+
+{
+  "serial": "okko"
+}
+
+<> 2021-04-20T171517.500.json
+
+###
+
+POST http://localhost:8001/api/payment/create
+Content-Type: application/json
+
+{
+  "serial": "okko"
+}
+
+<> 2021-04-20T171337.500.json
+
+###
+
+POST http://localhost:8001/api/payment/create
+Content-Type: application/json
+
+{
+  "serial": "okko"
+}
+
+###
+
