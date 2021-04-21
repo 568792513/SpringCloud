@@ -1,3 +1,15 @@
-# Created by .ignore support plugin (hsz.mobi)
-*/.idea
-*/target/
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/.apt_generated/
+/.classpath
+/.factorypath
+/.project
+/.settings/
+/.springBeans
+/target/
+/.gitignore
+/user-profile-analysis.iml
+/.idea

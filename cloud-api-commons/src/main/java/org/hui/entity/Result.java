@@ -1,4 +1,4 @@
-package org.hui.payment.entity;
+package org.hui.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
