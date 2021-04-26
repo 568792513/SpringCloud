@@ -1,11 +1,8 @@
-package org.hui;
+package org.hui.order;
 
-import org.myRule.MyRibbonRule;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
-import org.springframework.cloud.loadbalancer.annotation.LoadBalancerClient;
-import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
  * @Author zh
@@ -13,8 +10,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  * description :
  */
 @SpringBootApplication
-@EnableEurekaClient
-@LoadBalancerClient(value = "provider-payment", configuration = MyRibbonRule.class)
+@EnableDiscoveryClient
 public class CloudConsumerOrderApp {
     public static void main(String[] args) {
         SpringApplication.run(CloudConsumerOrderApp.class, args);

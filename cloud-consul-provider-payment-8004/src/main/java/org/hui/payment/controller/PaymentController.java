@@ -5,7 +5,6 @@ import org.hui.entity.Payment;
 import org.hui.entity.Result;
 import org.hui.payment.config.IdGenerator;
 import org.hui.payment.service.PaymentService;
-
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;

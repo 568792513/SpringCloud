@@ -1,0 +1,9 @@
+server:
+  port: 8101
+spring:
+  application:
+    name: consumer-order
+  cloud:
+    zookeeper:
+      connect-string: localhost:2181
+

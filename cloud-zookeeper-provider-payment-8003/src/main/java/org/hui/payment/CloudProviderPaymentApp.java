@@ -3,7 +3,6 @@ package org.hui.payment;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
-import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
  * @Author zh
@@ -12,7 +11,6 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  */
 @SpringBootApplication
 // @MapperScan("mapper")
-@EnableEurekaClient
 @EnableDiscoveryClient
 public class CloudProviderPaymentApp {
     public static void main(String[] args) {
