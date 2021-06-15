@@ -1,318 +1,393 @@
-GET http://localhost:8100/api/consumer/create
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T151929.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T151928.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T151926.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T151924.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T151641.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T151639.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T151638.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T151637.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T150626.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T150622.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T150616.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T150608.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T150455.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T115338.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T115134.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112643.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112642.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112641.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112640-1.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112640.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112639.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112638-1.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112638.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112637.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112636-1.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112636.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112635.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112633.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112632.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112631.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
+
+message=nihaoa
+
+<> 2021-06-11T112626.200.json
+
+###
+
+POST http://localhost:8300/api/stream/sendMessage
 Content-Type: application/json
 
 {
-  "serial": "okko"
+  "message": "nihaoa"
 }
 
-<> 2021-04-23T104243.500.json
+<> 2021-06-11T112418.500.json
 
 ###
 
-GET http://localhost:8100/api/consumer/get/1
+POST http://localhost:8300/api/stream/sendMessage
+Content-Type: application/x-www-form-urlencoded
 
-<> 2021-04-23T103948.500.json
+message=nihaoa
 
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-23T103841.500.json
+<> 2021-06-11T112209.200.json
 
 ###
 
-GET http://localhost:8100/api/consumer/discovery
-
-<> 2021-04-23T103821.200.json
-
-###
-
-GET http://localhost:8001/api/payment/discovery
-
-<> 2021-04-23T103653.200.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-23T103635.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/discovery
-
-<> 2021-04-23T103448.200.json
-
-###
-
-GET http://localhost:8001/api/payment/discovery
-
-<> 2021-04-23T103315.200.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-23T103122.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-23T102539.500.json
-
-###
-
-GET http://localhost:8101/api/order/zk/get/2
-
-<> 2021-04-22T155323.200.txt
-
-###
-
-GET http://localhost:8101/api/order/zk/get/1
-
-<> 2021-04-22T155239.200.txt
-
-###
-
-GET http://localhost:8001/api/payment/discovery
-
-<> 2021-04-22T103820.200.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-22T102109.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-22T100918.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-22T100641.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-22T100529.200.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-22T100452.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-22T100334.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-22T100216.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-22T100113.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-22T095745.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-22T095518.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T172603.500.json
-
-###
-
-GET http://localhost:8002/api/payment/get/1
-
-<> 2021-04-21T172554.200.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T172412.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T172334.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T171837.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T171810.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T171548.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T171321.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T171113.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T170950.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T170622.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T170518.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T170357.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T165337.200.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T165335.200.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T165330.200.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T165327.200.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T165323.200.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T165312.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T165228.200.json
-
-###
-
-GET http://localhost:8002/api/payment/get/1
-
-<> 2021-04-21T162505.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/create
+POST http://localhost:8300/api/stream/sendMessage
 Content-Type: application/json
 
 {
-  "serial": "okko"
+  "message": "nihaoa"
 }
 
-<> 2021-04-21T161626.500.json
+<> 2021-06-11T112007.400.json
 
 ###
 
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T161615.500.json
-
-###
-
-GET http://localhost:8100/api/consumer/get/1
-
-<> 2021-04-21T160941.500.json
+GET http://localhost:8800/actuator/health
+Accept: application/vnd.spring-boot.actuator.v3+json
 
 ###
 
-GET http://localhost:8100/api/consumer/create
-Content-Type: application/json
-
-{
-  "serial": "okko"
-}
-
-<> 2021-04-21T160532.500.json
+GET http://localhost:8210/info/timeout/-1
 
 ###
 
-GET http://localhost:8002/api/consumer/create
-Content-Type: application/json
+GET http://localhost:8210/info/timeout/1
 
-{
-  "serial": "okko"
-}
+###
 
-<> 2021-04-21T160459.404.json
+GET http://localhost:8210/info/ok/1
+
+###
+
+GET http://localhost:8800/actuator/health
+Accept: application/vnd.spring-boot.actuator.v3+json
+
+###
+
+GET http://localhost:8210/info/timeout/-1
+
+###
+
+GET http://localhost:8210/info/ok/1
+
+###
+
+GET http://localhost:8210/info/timeout/1
+
+###
+
+GET http://localhost:8800/actuator/health
+Accept: application/vnd.spring-boot.actuator.v3+json
+
+<> 2021-06-07T172631.200.json
+
+###
+
+GET http://localhost:8210/info/timeout/1
+
+<> 2021-06-07T145645.200.json
+
+###
+
+GET http://localhost:8210/info/ok/1
+
+<> 2021-06-07T114806.200.json
+
+###
+
+GET http://localhost:8210/info/ok/1
+
+<> 2021-06-07T114603.200.json
+
+###
+
+GET http://localhost:8210/info/ok/1
+
+<> 2021-06-07T114552.200.json
+
+###
+
+GET http://localhost:8210/info/ok/1
+
+<> 2021-06-07T113921.200.json
+
+###
+
+GET http://localhost:8210/info/ok/1
+
+<> 2021-06-07T113920.200.json
+
+###
+
+GET http://localhost:8210/info/ok/1
+
+<> 2021-06-07T113919.200.json
 
 ###
 

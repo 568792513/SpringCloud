@@ -21,6 +21,13 @@
         <module>cloud-zookeeper-provider-payment-8003</module>
         <module>cloud-zookeeper-consumer-8101</module>
         <module>cloud-consul-provider-payment-8004</module>
+        <module>cloud-consumer-order-feign-8200</module>
+        <module>cloud-provider-payment-hystrix-8010</module>
+        <module>cloud-consumer-order-feign-hystrix-8210</module>
+        <module>cloud-spring-gateway-8800</module>
+        <module>cloud-stream-rabbit-provider-8300</module>
+        <module>cloud-stream-rabbit-consumer-8310</module>
+        <module>cloud-stream-rabbit-consumer-8311</module>
     </modules>
 
     <!--统一版本号-->
@@ -86,7 +93,7 @@
             <dependency>
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok</artifactId>
-                <version>1.18.16</version>
+                <version>1.18.20</version>
                 <scope>provided</scope>
             </dependency>
             <dependency>

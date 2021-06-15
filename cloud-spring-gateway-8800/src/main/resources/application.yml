@@ -1,0 +1,25 @@
+server:
+  port: 8800
+spring:
+  application:
+    name: cloud-gateway
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true #开启从注册中心动态创建路由的功能，利用微服务名进行路由
+      routes:
+        - id: provider-payment-hystrix-route
+          uri: lb://provider-payment-hystrix
+          predicates:
+            - Path=/api/payment/**
+        - id: provider-payment-route
+          uri: lb://provider-payment
+          predicates:
+            - Path=/api/payment/**
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
